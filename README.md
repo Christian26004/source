@@ -1,3 +1,3 @@
 # Source 
 
-This is a repository of processes I created while attending UTSA.
+This is a repository of programs I created while attending UTSA.
